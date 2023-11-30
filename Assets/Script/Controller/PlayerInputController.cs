@@ -29,8 +29,4 @@ public class PlayerInputController : TopDownCharacterCotroller
         }
     }
 
-    public void OnFire(InputValue value)
-    {
-
-    }
 }
